@@ -1,0 +1,9 @@
+KEBABRICO — VERSIÓN CON FOTOS WEB CAMBIADAS
+
+1) Abre index.html en un navegador con conexión a Internet.
+2) Las fotos de los productos se han cambiado para cargar referencias visuales encontradas en páginas web.
+3) Si una página externa bloquea la imagen, la web intenta mostrar la foto local original como respaldo.
+
+Importante: las fotos son referencias visuales genéricas, no fotos verificadas de los platos reales de KebabRico. Algunas variantes del mismo tipo de producto comparten una referencia. Las imágenes externas requieren Internet.
+Actualización de diseño: imagen personalizada de Pizza Marisco y de Pan Pita / Turco Falafel. Se añadió acceso directo a BOCADILLOS en la navegación, también compatible con la búsqueda y el selector de idioma.
+Corrección adicional: la foto incorrecta tipo collage de Alitas de Pollo se ha sustituido por la foto de alitas (assets/catalog/38.jpg).

@@ -1,0 +1,36 @@
+FOTOS RESTAURADAS EN ESTA VERSION
+
+Se ha incorporado la carpeta IMAGENES del archivo aportado y se han actualizado las referencias del catálogo para utilizar esas imágenes locales cuando el nombre/archivo corresponde al plato.
+
+Imágenes colocadas:
+- Calamares Romana -> calamares-a-la-romana-fritos.jpg
+- Doner Box -> doner box.jpg
+- Durum Gratinado / Menús de Durum gratinado -> durum gratinado.jpg
+- Ensalada de Atún -> Ensalada de Atun.jpg
+- Ensalada Verde -> Ensalada Verde.jpg
+- Muslo de Pollo -> muslos de pollo.jpg
+- Plato Kebab -> plato kebab.jpg
+- Plato Gratinado -> platogratinado.png
+- Pollo La Nata -> pollo a la nata.jpg
+- Pollo Al Curry -> Pollo Al Curry.jpg
+- Rollo de Pollo -> Rollo de Pollo .jpg
+- Samosa -> samosa.jpg
+- Seekh Kebab -> Seekh Kebab .jpg
+- Tacos -> Taco frances.webp
+
+También se han reutilizado fotos locales ya incluidas en el proyecto cuando correspondían (nuggets, alitas, fingers, falafel y durum normal).
+
+PRODUCTOS QUE QUEDAN SIN FOTO PORQUE NO HAY UNA IMAGEN DIRECTA EN LA CARPETA IMAGENES:
+- Biryani Especial (en PLATOS y MENÚ PLATOS)
+- Pechuga a la Plancha
+- Plato Gambas Calamares
+- Tacos de Pescado
+- Variantes de Plato Kebab / Menú Platos Kebab cuya composición específica es carne con arroz
+
+No se han cambiado los precios ni las descripciones, ni se han realizado otros cambios de diseño o de productos.
+
+FOTOS AÑADIDAS EN ESTA ACTUALIZACIÓN
+- Biryani Especial (en PLATOS y MENÚ PLATOS) -> assets/catalog/biryani-especial.webp
+- Plato Gambas Calamares -> assets/catalog/plato-gambas-calamares.webp
+- Pechuga a la Plancha -> assets/catalog/pechuga-a-la-plancha.jpg
+- Tacos de Pescado -> assets/IMAGENES/Taco frances.webp (foto de taco francés normal solicitada)

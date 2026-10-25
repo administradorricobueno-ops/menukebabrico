@@ -1,0 +1,5 @@
+DISEÑO ACTUALIZADO
+
+Carta KebabRico con estilo rústico: verde bosque, crema y terracota. Se han eliminado avisos repetidos y notas innecesarias, se muestran los precios de pizza una sola vez y se añadieron animaciones suaves al aparecer las tarjetas y al pasar el cursor. Las animaciones respetan la preferencia de movimiento reducido del dispositivo.
+
+Abre index.html o usa INICIAR-WINDOWS.bat para iniciar la carta local.

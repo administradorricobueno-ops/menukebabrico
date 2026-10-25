@@ -1,0 +1,6 @@
+ACTUALIZACION DE FOTOS Y EMOJIS
+
+- La foto proporcionada para los platos con arroz se ha añadido en assets/catalog/plato-kebab-con-arroz.jpg.
+- Se ha asignado a Plato Kebab (con arroz) y Menú Platos Kebab (con arroz).
+- Los productos/menús con patatas, ensalada o refresco/bebida ahora muestran 🍟, 🥗 y/o 🥤 en el título.
+- No se ha modificado el resto de nombres, precios ni descripciones.

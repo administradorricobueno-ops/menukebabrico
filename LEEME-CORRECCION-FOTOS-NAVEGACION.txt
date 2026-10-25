@@ -1,0 +1,8 @@
+ACTUALIZACION KEBABRICO
+
+- Corregidas las imágenes de MENÚ PLATOS usando únicamente fotos locales adecuadas.
+- Recortadas fotos compuestas para no mostrar fragmentos de otros platos.
+- Plato Gambas Calamares queda sin foto: no se encontró una imagen correspondiente en el proyecto.
+- Navegación fija en escritorio, móvil y tablet; el seguimiento de sección se calcula de forma estable durante el scroll.
+- La categoría BOCADILLOS está incluida en la navegación y se mantiene visible al desplazarse.
+- Añadida textura de ladrillo muy suave, en la misma gama crema del fondo.

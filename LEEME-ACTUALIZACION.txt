@@ -1,0 +1,11 @@
+KEBABRICO · ACTUALIZACIÓN DE DISEÑO
+
+- Diseño visual refinado para ordenador, tablet y móvil.
+- Foto personalizada de Pizza Marisco: assets/catalog/pizza-marisco-personalizada.jpg
+- Foto personalizada de Pan Pita / Turco Falafel: assets/catalog/pan-pita-falafel-personalizada.jpg
+- Enlace BOCADILLOS añadido a la navegación de categorías. El enlace salta a la sección y sigue la selección al hacer scroll.
+- La búsqueda puede localizar los bocadillos por su nombre.
+- Se mantienen precios, traducciones, menú, editor de fotos y navegación multidioma.
+
+Uso: descomprime todo el ZIP y abre index.html o ejecuta INICIAR-WINDOWS.bat para usar también el editor de fotos.
+Corrección adicional: la foto incorrecta tipo collage de Alitas de Pollo se ha sustituido por la foto de alitas (assets/catalog/38.jpg).

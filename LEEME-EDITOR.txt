@@ -1,0 +1,22 @@
+KEBABRICO - CARTA LOCAL CON CAMBIO PERMANENTE DE FOTOS
+
+1. Instala Node.js LTS si no lo tienes: https://nodejs.org/
+2. En Windows, ejecuta INICIAR-WINDOWS.bat.
+3. Carta: http://127.0.0.1:4173/
+4. Editor de fotos: http://127.0.0.1:4173/editar-fotos.html
+5. En el editor, elige un producto, selecciona una foto JPG/PNG/WEBP y pulsa Guardar foto permanentemente.
+
+La foto se guarda como archivo en assets/catalog/ y se actualiza la ruta en index.html.
+Para llevar los cambios a otro ordenador, detén el servidor y copia TODA esta carpeta, incluida index.html y assets/. Ejecuta de nuevo INICIAR-WINDOWS.bat en el otro ordenador (con Node.js instalado).
+
+No borres los archivos anteriores hasta verificar la nueva foto. Este editor funciona solo en el equipo local; no publica cambios en Internet.
+
+
+ACTUALIZACION DE CARTA WEB
+- Abre index.html para ver la carta web (no es un cartel ni una imagen de menu).
+- La foto de bebidas que aportaste está guardada en assets/catalog/1.jpg y se usa en Coca Cola.
+- La referencia de dürüm está guardada en assets/catalog/durum_referencia.webp.
+- Se ajustaron las imágenes de la sección PLATOS y las de DÜRÜM / PAN PITA sin cambiar el CSS ni el diseño general.
+
+
+Actualización de fotografías: la sección PLATOS se ha revisado; Muslo de Pollo lleva 🍟🥤 y fotografía de pollo; toda la categoría BEBIDAS usa la fotografía de refrescos facilitada; DÜRÜM usa imágenes distintas de wraps; PAN PITA / PAN TURCO conserva imágenes de panes rellenos.

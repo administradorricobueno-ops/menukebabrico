@@ -1,0 +1,6 @@
+KEBABRICO — REVISIÓN DE FOTOS DE PIZZAS
+
+Abre index.html con un navegador y conexión a Internet.
+Incluye las 14 pizzas y 3 entradas de calzone. Las fotos se enlazan desde sus fuentes originales; no son copias locales.
+Se ha actualizado Pizza Carbonara con la URL indicada y se mantiene la foto revisada de la 16. Pizza Calzone Pollo Ala Plancha.
+La web original no se ha modificado estructuralmente; en el ZIP actualizado solo se han cambiado las referencias de imagen de esos dos productos.

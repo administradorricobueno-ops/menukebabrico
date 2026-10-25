@@ -1,0 +1,11 @@
+KebabRico — carta local revisada.
+Abre index.html en el navegador.
+Las imágenes de productos están en assets/catalog/ y las imágenes de pizzas están separadas en assets/pizzas/.
+El diseño, el orden de categorías, los nombres y los precios se han conservado.
+
+
+ACTUALIZACION DE FOTOS: se han actualizado solo las referencias de imagen de Pizza Carbonara y Pizza Calzone Pollo Ala Plancha. La galeria de revision esta en la carpeta revision-fotos-pizzas (abrir index.html con Internet). Las dos imagenes se cargan desde sus URL externas, por lo que requieren conexion a Internet.
+
+
+ACTUALIZACIÓN DE FOTOS DE PIZZAS (18/10/2026)
+Se han actualizado en la carta las imágenes de las 14 pizzas y los 3 calzones usando las referencias web incluidas en revision-fotos-pizzas/fuentes.csv. Para mostrarlas se necesita conexión a Internet. No se han cambiado las fotos de las demás categorías.
